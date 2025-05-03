@@ -1,10 +1,10 @@
-# Pusat4D - Live Score & Odds
+# PusatScore - Live Score & Odds Platform
 
-Pusat4D adalah platform online untuk live score pertandingan bola, update odds, dan komunitas nobar digital.
+PusatScore adalah platform online yang menyajikan live score pertandingan bola, update odds terkini, dan komunitas nobar digital.
 
-🎮 Cocok buat pecinta bola, gamers, dan yang suka prediksi skor secara real-time.
+⚽ Dirancang untuk pecinta bola, gamer, dan siapa saja yang suka prediksi skor secara real-time.
 
-👉 Kunjungi sekarang: [pusat4d.com](https://pusat4d.com)
+👉 Kunjungi sekarang: [pusatscore.com]
 
 ---
 
@@ -12,8 +12,8 @@ Pusat4D adalah platform online untuk live score pertandingan bola, update odds, 
 - Live skor otomatis
 - Statistik & odds bola lengkap
 - Komunitas diskusi aktif
-- Tampilan modern
+- Tampilan modern & cepat
 
-📌 Daftar & join komunitas sekarang di **[pusat4d.com](https://pusat4d.com)**
+📌 Cek langsung: **[pusatscore.com]**
 
-> #pusat4d #livescore #nobarbola #sportsbook
+> #pusatscore #livescore #nobarbola #sportscore #oddsbola
